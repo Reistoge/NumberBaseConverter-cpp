@@ -1,6 +1,9 @@
 # NumberBaseConverter 
-# Steps
-1. Download or clone the repository
-2. Extract [BaseCalc.zip](https://github.com/Reistoge/NumberBaseConverter-cpp/blob/main/BaseNCalc.zip)
+# Steps 
+## Simplest way
+ 1.Download and extract [BaseCalc.zip](https://github.com/Reistoge/NumberBaseConverter-cpp/blob/main/BaseNCalc.zip)
+## If you clone or download the repository
+ 1. Extract ´BaseCalc.zip´
+
 
  
